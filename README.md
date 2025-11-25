@@ -3,7 +3,7 @@
 **Project Overview**
 This project involved a comprehensive analysis of historical corporate financial data, the development of time-series models for future performance forecasting, and the construction of an interactive Business Intelligence (BI) dashboard. The goal was to transform raw financial statements into actionable insights, providing a clear visual representation of company performance and future projections for executive decision-making.
 
-**screenshots for dashboards of forcasting and financial analysis:**
+**screenshots for dashboards of forecasting and financial analysis:**
 
 ![Image Alt](https://github.com/AnupamBanerjee28/Financial-Performance-Analysis-and-Forecasting/blob/d1e45c62db1ffa2d84fffe1f67a8a450d2060a7e/Screenshot%201.png)
 
