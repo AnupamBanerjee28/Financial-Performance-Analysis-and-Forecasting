@@ -5,9 +5,9 @@ This project involved a comprehensive analysis of historical corporate financial
 
 **screenshots for dashboards of forcasting and financial analysis:**
 
-![Image Alt]([image_url](https://github.com/AnupamBanerjee28/Financial-Performance-Analysis-and-Forecasting/blob/d1e45c62db1ffa2d84fffe1f67a8a450d2060a7e/Screenshot%201.png))
+![Image Alt](https://github.com/AnupamBanerjee28/Financial-Performance-Analysis-and-Forecasting/blob/d1e45c62db1ffa2d84fffe1f67a8a450d2060a7e/Screenshot%201.png)
 
-![Image Alt](image_url)
+![Image Alt](https://github.com/AnupamBanerjee28/Financial-Performance-Analysis-and-Forecasting/blob/7ca39ae0096290be20d916bda5ac97bcb4176015/Screenshot%202.png)
 
 ---------
 
